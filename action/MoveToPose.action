@@ -1,5 +1,5 @@
 geometry_msgs/Pose goal_pose
 ---
-geometry_msgs/Pose current_pose
+float32 final_distance
 ---
-int32 status
+float32 distance_to_goal
